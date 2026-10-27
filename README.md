@@ -111,7 +111,7 @@ The repository includes links to some of my published technical articles, projec
 
 ## Official Task List
 
-For the complete list of ARTH assignments and task descriptions, refer to the [ARTH Tasks Spreadsheet](https://docs.google.com/spreadsheets/d/1B7hCGi2dZAe3ujM6Nml-QmG6NyUghW5FEMFXwQBtSMI/edit#gid=0).
+For the complete list of project descriptions, refer to the [Spreadsheet](https://docs.google.com/spreadsheets/d/1B7hCGi2dZAe3ujM6Nml-QmG6NyUghW5FEMFXwQBtSMI/edit#gid=0).
 
 ## Connect With Me
 
@@ -121,4 +121,4 @@ For the complete list of ARTH assignments and task descriptions, refer to the [A
 
 ---
 
-*This repository serves as an index of my ARTH task submissions and published technical work. Individual articles and demonstrations are linked to their respective platforms. Implementation files and code are maintained in the relevant project repositories where available.*
+*This repository serves as an index of some of my starting project and published technical work. Individual articles and demonstrations are linked to their respective platforms. Implementation files and code are maintained in the relevant project repositories where available.*
