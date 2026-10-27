@@ -1,10 +1,10 @@
-# Cloud, DevOps & Technology Tasks
+# Cloud, DevOps & Technology Projects
 
 **Submitted by:** Suman Yadav  
 
 ## About This Repository
 
-The tasks cover Cloud Computing, DevOps, Linux System Administration, Infrastructure Automation, Containerization, Kubernetes, Big Data, Python Programming, Networking, and Machine Learning.
+The projects cover Cloud Computing, DevOps, Linux System Administration, Infrastructure Automation, Containerization, Kubernetes, Big Data, Python Programming, Networking, and Machine Learning.
 
 The repository includes links to some of my published technical articles, project demonstrations, and task submissions on GitHub, LinkedIn, and Medium.
 
